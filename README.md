@@ -17,19 +17,22 @@
 
 ## 🛠 Tech Stack
 
-### Languages  
-<img src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=black&style=flat" />  
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />  
-<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" />  
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />  
+
+**Languages:**  
+<img src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=black&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
 
-### Frameworks & Tools  
-<img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" />  
-<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat" />  
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />  
-<img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat" />  
-<img src="https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white&style=flat" />  
+<br><br>
+
+**Frameworks & Tools:**  
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />  
 
 ---
