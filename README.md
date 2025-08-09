@@ -17,16 +17,15 @@ and Xamarin has given me a deep understanding of software engineering fundamenta
 
 💡 I’m currently:
 
-Working on React and Next.js projects for my portfolio
-Exploring shadcn/ui, Tailwind CSS, and other modern UI libraries
+Working on React and Next.js projects using shadcn/ui, Tailwind CSS, and other modern UI libraries
 Building clean, maintainable codebases with best practices in mind
+
+<br>
 
 💡 Fullstack Software Developer | Automation Enthusiast | Problem Solver  
 🌍 Based in Cape Town, South Africa  
 🎓 BSc in Computer Systems — Heriot-Watt University, United Kingdom
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/daneelv/)  
-
-
 
 ---
 
