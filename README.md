@@ -25,6 +25,7 @@ Building clean, maintainable codebases with best practices in mind
 💡 Fullstack Software Developer | Automation Enthusiast | Problem Solver  
 🌍 Based in Cape Town, South Africa  
 🎓 BSc in Computer Systems — Heriot-Watt University, United Kingdom
+
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/daneelv/)  
 
 ---
