@@ -14,6 +14,8 @@
 🌍 Based in Cape Town, South Africa  
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/daneelv/)  
 
+
+
 ---
 
 ## 🛠 Tech Stack
@@ -38,12 +40,14 @@
 <img src="https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />  
 
----
+
 
 <!--
 ## 📌 Featured Projects
 - 🌐 [Portfolio Website](#) – My personal portfolio built with Next.js.
 -->
+
+
 
 <p align="center">
 💬 Hope to connect with you soon!
