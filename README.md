@@ -38,8 +38,6 @@
 - 🌐 [Portfolio Website](#) – My personal portfolio built with Next.js.
 -->
 
----
-
 <p align="center">
 💬 Hope to connect with you soon!
 </p>
