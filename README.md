@@ -26,8 +26,7 @@ Building clean, maintainable codebases with best practices in mind
 🌍 Based in Cape Town, South Africa  
 🎓 BSc in Computer Systems — Heriot-Watt University, United Kingdom
 
-📫 **Reach me via**  
-[Email](mailto:dnlvantonder@gmail.com) • [LinkedIn](https://www.linkedin.com/in/daneelv/)
+📫 **Reach me via** [Email](mailto:dnlvantonder@gmail.com) • [LinkedIn](https://www.linkedin.com/in/daneelv/)
 
 ---
 
