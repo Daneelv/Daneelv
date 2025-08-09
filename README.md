@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Daneel 👋</h1>
-
+<!--
 <p align="center">
   <a href="#">Portfolio</a> •
   <a href="https://www.linkedin.com/in/daneelv/">LinkedIn</a> •
@@ -7,6 +7,7 @@
 </p>
 
 ---
+-->
 
 ## 👨‍💻 About Me
 💡 Fullstack Software Developer | Automation Enthusiast | Problem Solver  
