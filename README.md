@@ -38,7 +38,14 @@
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white&style=flat" />&nbsp;
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />  
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-shadcn%2Fui-000000?logo=shadcnui&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
+ 
 
 
 
