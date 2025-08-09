@@ -10,8 +10,20 @@
 
 
 ## 👨‍💻 About Me
+I’m a Software Developer with over 10 years of experience, now focused on building modern, high-performance web applications using React, JavaScript, TypeScript, and Next.js.
+
+I have a strong background in full-stack development, UI/UX implementation, and scalable application architecture. My experience in Delphi, C#, 
+and Xamarin has given me a deep understanding of software engineering fundamentals, which I now apply to modern JavaScript frameworks.
+
+💡 I’m currently:
+
+Working on React and Next.js projects for my portfolio
+Exploring shadcn/ui, Tailwind CSS, and other modern UI libraries
+Building clean, maintainable codebases with best practices in mind
+
 💡 Fullstack Software Developer | Automation Enthusiast | Problem Solver  
 🌍 Based in Cape Town, South Africa  
+🎓 BSc in Computer Systems — Heriot-Watt University, United Kingdom
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/daneelv/)  
 
 
