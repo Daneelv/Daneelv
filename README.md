@@ -22,7 +22,7 @@ and Xamarin has given me a deep understanding of software engineering fundamenta
 🌍 Based in Cape Town, South Africa  
 🎓 BSc in Computer Systems — Heriot-Watt University, United Kingdom
 
-📫 **Reach me via** [Email](mailto:dnlvantonder@gmail.com) • [LinkedIn](https://www.linkedin.com/in/daneelv/)
+📫 **Reach me via** [Email](mailto:dnlvantonder@gmail.com)
 
 ---
 
