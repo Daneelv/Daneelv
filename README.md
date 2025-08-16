@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://daneelv.github.io/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/daneelv/">LinkedIn</a> •
-  <a href="https://github.com/Daneelv">GitHub</a>
 </p>
 
 ---
