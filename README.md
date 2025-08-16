@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Daneel 👋</h1>
 
 <p align="center">
-  <a href="https://daneelv.github.io/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/daneelv/">LinkedIn</a> •
+  <a href="https://daneelv.github.io/ target="_blank"">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/daneelv/ target="_blank"">LinkedIn</a> •
 </p>
 
 ---
