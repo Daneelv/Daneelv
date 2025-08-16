@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Daneel 👋</h1>
 
 <p align="center">
-  <a href="https://daneelv.github.io/" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/daneelv/" target="_blank">LinkedIn</a> •
+  <a href="https://daneelv.github.io/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/daneelv/">LinkedIn</a> •
 </p>
 
 ---
@@ -15,7 +15,7 @@ and Xamarin has given me a deep understanding of software engineering fundamenta
 
 💡 I’m currently:
 
-- Working on React and Next.js projects using shadcn/ui, Tailwind CSS, and other modern UI libraries
+- Working on projects with React, React Native, and Next.js, leveraging Tailwind CSS and other modern UI libraries
 - Building clean, maintainable codebases with best practices in mind
 
 💡 Fullstack Software Developer | Automation Enthusiast | Problem Solver  
@@ -27,13 +27,12 @@ and Xamarin has given me a deep understanding of software engineering fundamenta
 ---
 
 ## 😂 My Day-to-Day Routine
-- ☕ Wake up, survive on coffee  
+- ☕ Wake up, survive on coffee (5 cups a day minimum) 
 - 💻 Debug code I wrote yesterday and pretend I understand it  
 - 🧩 Build cool new features or break things spectacularly  
-- 🍕 Lunch while checking GitHub notifications  
-- 💤 Power nap (optional, but highly recommended)  
+- 🍕 Munching lunch while my code and I engage in a silent staring contest.    
 - 💡 Sudden moment of inspiration to refactor everything  
-- 🎮 End the day by playing games, watching tutorials, or staring at the ceiling thinking about code  
+- 🎮 End the day by walking my dog, watching tutorials, or staring at the ceiling thinking about code  
 
 ---
 
