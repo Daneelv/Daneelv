@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Daneel 👋</h1>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">Portfolio</a> •
+  <a href="https://daneelv.github.io/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/daneelv/">LinkedIn</a> •
   <a href="https://github.com/Daneelv">GitHub</a>
 </p>
