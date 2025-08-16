@@ -37,7 +37,8 @@ and Xamarin has given me a deep understanding of software engineering fundamenta
 ---
 
 ## 🛠 Tech Stack
-**Languages:**  
+**Languages:**
+
 <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=black&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" />&nbsp;
@@ -46,6 +47,7 @@ and Xamarin has given me a deep understanding of software engineering fundamenta
 <img src="https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white&style=flat" />
 
 **Frameworks & Tools:**
+
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat" />&nbsp;
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />&nbsp;
